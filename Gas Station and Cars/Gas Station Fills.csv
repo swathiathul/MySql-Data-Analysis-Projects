@@ -1,0 +1,71 @@
+Fill ID,Vehicle ID,Fuel Type,Cost of Fill (£),Customer Membership
+1001,VH04,Petrol,68,No
+1002,VH06,Diesel ,72,Yes
+1003,VH04,Petrol,138,Yes
+1004,VH05,Petrol,94,Yes
+1005,VH01,Diesel ,74,Yes
+1006,VH05,Diesel ,147,No
+1007,VH06,Diesel ,130,Yes
+1008,VH04,Diesel ,76,Yes
+1009,VH05,Petrol,41,No
+1010,VH02,Petrol,89,No
+1011,VH07,LNG (Gas),147,Yes
+1012,VH01,Petrol,61,No
+1013,VH06,Diesel ,124,Yes
+1014,VH01,LNG (Gas),25,Yes
+1015,VH06,LNG (Gas),25,Yes
+1016,VH04,Diesel ,121,No
+1017,VH03,Petrol,34,Yes
+1018,VH06,Petrol,74,Yes
+1019,VH07,Petrol,70,No
+1020,VH06,LNG (Gas),53,No
+1021,VH01,LNG (Gas),50,No
+1022,VH07,LNG (Gas),98,No
+1023,VH06,Petrol,28,No
+1024,VH02,Diesel ,144,No
+1025,VH01,Diesel ,48,Yes
+1026,VH01,Diesel ,72,Yes
+1027,VH04,Petrol,139,Yes
+1028,VH03,Petrol,48,Yes
+1029,VH05,Petrol,105,No
+1030,VH07,Diesel ,56,Yes
+1031,VH03,Petrol,27,Yes
+1032,VH01,Petrol,87,Yes
+1033,VH01,Diesel ,128,Yes
+1034,VH04,LNG (Gas),146,No
+1035,VH02,Diesel ,50,Yes
+1036,VH03,Diesel ,92,Yes
+1037,VH02,Petrol,31,No
+1038,VH06,Petrol,33,Yes
+1039,VH04,LNG (Gas),115,No
+1040,VH01,Petrol,82,Yes
+1041,VH07,Diesel ,136,No
+1042,VH04,LNG (Gas),114,Yes
+1043,VH06,LNG (Gas),60,No
+1044,VH05,Diesel ,114,No
+1045,VH07,LNG (Gas),72,Yes
+1046,VH01,Petrol,125,No
+1047,VH07,Petrol,98,No
+1048,VH03,LNG (Gas),28,Yes
+1049,VH03,LNG (Gas),101,No
+1050,VH04,LNG (Gas),103,Yes
+1051,VH06,Petrol,107,No
+1052,VH03,Diesel ,70,No
+1053,VH07,Diesel ,79,No
+1054,VH01,Diesel ,149,Yes
+1055,VH02,Petrol,47,Yes
+1056,VH01,Petrol,137,Yes
+1057,VH06,Petrol,58,Yes
+1058,VH04,Diesel ,49,Yes
+1059,VH07,Petrol,73,No
+1060,VH01,Petrol,120,Yes
+1061,VH03,Diesel ,119,Yes
+1062,VH04,Diesel ,69,No
+1063,VH06,LNG (Gas),73,No
+1064,VH04,Diesel ,112,No
+1065,VH02,Petrol,99,No
+1066,VH03,Petrol,39,Yes
+1067,VH07,LNG (Gas),135,Yes
+1068,VH04,Petrol,137,No
+1069,VH02,Diesel ,125,Yes
+1070,VH05,LNG (Gas),114,No
